@@ -1,3 +1,6 @@
 #EXTINF:-1 tvg-id="003" tvg-name="Live Adult TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s" group-title="Adult", Live Adult TV
 https://cdn.adultiptv.net/bigdick.m3u8
 
+#EXTINF:-1 tvg-id="004" tvg-name="Embed VID" tvg-logo="logo.link" group-title="Embed", Embed VID
+https://terabox.com/sharing/embed?surl=63CvYBt_fuT61qapsRSpZg&resolution=480&autoplay=true&mute=false&uk=4401614939629&fid=520471515725068&slid=
+
