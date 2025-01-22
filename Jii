@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="shinchan" tvg-name="Shinchan Movies" tvg-logo="https://i.ibb.co/album/shinchan-logo.jpg" group-title="WebSeries | Shinchan Playlist"
+#EXTINF:-1 tvg-id="shinchan" tvg-name="Shinchan Movies" tvg-logo="https://i.ibb.co/album/shinchan-logo.jpg" group-title="Shinchan Playlist"
 #PLAYLIST
 
-#EXTINF:-1 tvg-id="shinchan01" tvg-name="Shinchan Movie 1" tvg-logo="https://i.ibb.co/album/shinchan-movie1.jpg" group-title="WebSeries | Shinchan Playlist"
+#EXTINF:-1 tvg-id="shinchan01" tvg-name="Shinchan Movie 1" tvg-logo="https://i.ibb.co/album/shinchan-movie1.jpg" group-title="Shinchan Playlist"
 https://terabox.com/sharing/embed?surl=movie1-url&resolution=480
 
-#EXTINF:-1 tvg-id="shinchan02" tvg-name="Shinchan Movie 2" tvg-logo="https://i.ibb.co/album/shinchan-movie2.jpg" group-title="WebSeries | Shinchan Playlist"
+#EXTINF:-1 tvg-id="shinchan02" tvg-name="Shinchan Movie 2" tvg-logo="https://i.ibb.co/album/shinchan-movie2.jpg" group-title="Shinchan Playlist"
 https://terabox.com/sharing/embed?surl=movie2-url&resolution=480
 
-#EXTINF:-1 tvg-id="shinchan03" tvg-name="Shinchan Movie 3" tvg-logo="https://i.ibb.co/album/shinchan-movie3.jpg" group-title="WebSeries | Shinchan Playlist"
+#EXTINF:-1 tvg-id="shinchan03" tvg-name="Shinchan Movie 3" tvg-logo="https://i.ibb.co/album/shinchan-movie3.jpg" group-title="Shinchan Playlist"
 https://terabox.com/sharing/embed?surl=movie3-url&resolution=480
 
-#EXTINF:-1 tvg-id="shinchan04" tvg-name="Shinchan Movie 4" tvg-logo="https://i.ibb.co/album/shinchan-movie4.jpg" group-title="WebSeries | Shinchan Playlist"
+#EXTINF:-1 tvg-id="shinchan04" tvg-name="Shinchan Movie 4" tvg-logo="https://i.ibb.co/album/shinchan-movie4.jpg" group-title="Shinchan Playlist"
 https://terabox.com/sharing/embed?surl=movie4-url&resolution=480
 
 #EXTINF:-1 tvg-id="9001" tvg-name="Teen Girls" tvg-logo="https://i.ibb.co.com/rbKtGxf/20250117-195027.jpg" group-title="LivePorn"
